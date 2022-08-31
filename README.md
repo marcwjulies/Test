@@ -84,6 +84,35 @@ This [streamlitapp](src/investment_multipage_app.py) provides the following feat
 * Displaying developer profile 
 * Implementing the purchasing transaction
 
+### Landing Page
+
+![image](https://user-images.githubusercontent.com/101629518/187657832-975a7d3d-c1f7-418d-aa15-e8f4603f9451.png)
+
+**Functionality:**
+
+* Left hand panel displaying the Ethereum account balances, with navigation options
+* The main page displaying the Algo developer profile, associated metrics, pricing and update features
+
+### Backtest Page
+
+![image](https://user-images.githubusercontent.com/101629518/187659013-cf7b18e2-96c5-4099-83e0-39eb2a86b28e.png)
+
+**Functionality:**
+
+* Selection of a developer and associated product
+* Selection of period to support backtesting
+* Display of backtesting results
+
+### Metamask
+
+![image](https://user-images.githubusercontent.com/101629518/187658542-41bafbc2-477f-4caa-a95f-bb0ce7c57a4f.png)
+
+### Garnache
+
+![image](https://user-images.githubusercontent.com/101629518/187658852-7ea70144-f457-4441-a605-de2aa993eba6.png)
+
+
+
 ## Challenges
 
 The limited development time was a factor we had to consider when defining the scope of the minimum viable product. The main challenges encountered whilst developing the 1Stop Investing shop minimum viable product. 
