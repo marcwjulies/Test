@@ -72,16 +72,17 @@ The data preparation to support the minimum viable demonstration of the 1Stop In
 * **Data visualization** - Graphs on strategy equity curves were viewed on back_test_zone and modified to suit the date ranges.
 
 ## Streamlit App
-This [notebook](src/Strategy_LR.ipynb) aims to uses the short term and long term created in the previous step from then [data folder](data/) folder and then analyse the suitability of the [Logistic Regression Model](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression) (which is a type of `Linear Model`) to see if the model is suitable to predict the trading signals for the data.  Various performance indicators and metrics as described below are captured and recorded.  
+This [streamlitapp](src/investment_multipage_app.py) provides the following features:
 
-The following process is applied to analyse the model and capture the metrics.
-
-- The test and training data for both short term and long terms are scaled using `StandardScaler`.
-- The scaled data is then trained with the training data and fit into the Logistic Regression Model.
-- The model is then used for prediction of signals using the testing data with both long term and short term investing strategy.
-- The model is then compared with the actual results and the `Classification Report` is visualised to see the accuracy of the model.
-- Performance metrics such as `Annualized Return`, `Cumulative Returns`, `Annual Volatility`, `Sharpe Ratio	`, `Sortino Ratio`, `Max Actual Return`, `Max Strategy Return`, `SS Lag` and `Max SReturn Lag`	are calculated on the predicted data for both long term and short term investing strategy.
-- The performance metrics are then saved as the `CSV` file and stored in the [data folder](data/) which is used by the visualation notebook covered later.
+* Import of the Ethereum transaction function into the 1Stop Investing Shop streamlit application. 
+* Five years worth of metric data generated from Backtest Zone is sourced from the [data folder](data/).
+* Creation of the list of sellers used in the minimum viable application demonstration
+* Configuration of the user interface - sidebar
+* Displaying Ethereum balances
+* Selection of backtesting data
+* Selecting a product
+* Dsiplaying developer profile 
+* Purchasing transaction
 
 ## Challenges
 
@@ -109,4 +110,4 @@ We see potential in the 1Stop Investing Shop solution and in order to extend the
 [Slide Deck](document/Project%202-%20Presentation%20(Fintech%20Bootcamp).pdf)
 
 ## Resources
-- [backtestzone.com]([https://www.backtestzone.com] for back testing results
+- [backtestzone.com](https://www.backtestzone.com) for back testing results
