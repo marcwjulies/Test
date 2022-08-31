@@ -53,7 +53,7 @@ Below are the technologies we used:
 * **Blockchain & Cryptowallet Library** - Blockchain based cryptowallet library to generate account, get balance and execute transactions.
 * **Ganache and Metamask for testing transactions** - Ganache was used a virtual blockchain for testing and Metamask as a wallet to confirm the transactions.
 * **BIP44 and Web3** - IP44 and Web3 library to handle Ethereum based wallet transactions
-* **Backtest Zone** - (https://www.backtestzone.com/ Backtest Zone app was used to generate the backtesting data that is used within the Streamlit App)
+* **Backtest Zone** - (https://www.backtestzone.com/) Backtest Zone app was used to generate the backtesting data that is used within the Streamlit App
 
 ![image](https://user-images.githubusercontent.com/101629518/187583416-99362eef-44fe-49c2-a500-b057f03d1590.png)
 
