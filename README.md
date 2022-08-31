@@ -11,13 +11,13 @@ People want to invest in the wide variety of options available but developing st
 
 All the challenges listed above are obstacles for potential investors to overcome, and provide an opportunity for additional investing approaches that can demonstrate higher returns, more personal choice and exposure to a community of investment experts.
 
-## Objective
+## Value Proposition
 
-We address these challenges buy offering investors access to an online marketplace, where the algo-trading developers can sell their algorithm and IP, so the investors (buyers) can "test-drive" and back-test different algorithms based on their risk profile and buy the one that meets their appetite.
+We address these challenges buy offering investors access to an online marketplace, where the algo-trading developers can sell their algorithm and IP, so the investors (buyers) can "test-drive" and back-test different algorithms based on their risk profile and buy the one that meets their appetite. Benefits include:
 
-Key insights, algorithm information, metrics and customer ratings are made available to customers to make an informed decision before purchasing access to an algorithm.
-
-Easy, instantaneous, cross-country and less expensive transactions, the payment from investors to sellers is executed through a blockchain platform. 
+* Key insights, algorithm information, metrics and customer ratings are made available to customers to make an informed decision before purchasing access to an algorithm.
+* Easy, instantaneous, cross-country and less expensive transactions, the payment from investors to sellers is executed through a blockchain platform. 
+* Affordable entry point accessing reliable, consistent and innovative algorithms from a community of algorithmic investement developers
 
 Basically 1Stop Investing shop! 
 
