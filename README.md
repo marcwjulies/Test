@@ -81,8 +81,8 @@ This [streamlitapp](src/investment_multipage_app.py) provides the following feat
 * Displaying Ethereum balances
 * Selection of backtesting data
 * Selecting a product
-* Dsiplaying developer profile 
-* Purchasing transaction
+* Displaying developer profile 
+* Implementing the purchasing transaction
 
 ## Challenges
 
